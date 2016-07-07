@@ -18,3 +18,7 @@ Time|Activity
 20:30~21:00| 补充能量/洗澡
 21:30~22:30| 阅读(Seed)/秘密花园
 22:30~23:00| 休息
+
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+    </video>
