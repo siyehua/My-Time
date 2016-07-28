@@ -10,9 +10,6 @@
  <tr><td>10606</td><td>玉林师范学院</td><td>光电信息科学与工程</td><td>理工类</td><td>415</td></tr>
  <tr><td>10608</td><td>广西民族大学(一)</td><td>公共事业管理</td><td>理工类</td><td>437</td></tr>
  <tr><td>10609</td><td>百色学院</td><td>设施农业科学与工程</td><td>理工类</td><td>407</td></tr>
- <tr><td>10876</td><td>浙江万里学院</td><td>统计学</td><td>理工类</td><td>334</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>食品质量与安全</td><td>理工类</td><td>&nbsp;</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td><td>生物制药</td><td>理工类</td><td>&nbsp;</td></tr>
  <tr><td>11049</td><td>淮阴工学院</td><td>植物生产类</td><td>理工类</td><td>380</td></tr>
  <tr><td>11053</td><td>徐州工程学院</td><td>化学工程与工艺</td><td>理工类</td><td>378</td></tr>
  <tr><td>11062</td><td>厦门理工学院</td><td>电子信息类(中外合作办学)</td><td>理工类</td><td>390</td></tr>
